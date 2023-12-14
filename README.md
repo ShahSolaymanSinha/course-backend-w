@@ -1,8 +1,6 @@
 ## Important Links
 
 Live Link: https://assignment-3-nine-tawny.vercel.app/
-<br>
-Video Link: https://drive.google.com/file/d/1xlFRVEY1EllR48MI_EO8Y5OslUtwkjbk/view?usp=sharing
 
 ## Step by step guide to run application locally
 
